@@ -1,0 +1,3 @@
+/home/lifeifan/Documents/vscodeporject/DataStructures/build/CMakeFiles/datastructures.dir
+/home/lifeifan/Documents/vscodeporject/DataStructures/build/CMakeFiles/edit_cache.dir
+/home/lifeifan/Documents/vscodeporject/DataStructures/build/CMakeFiles/rebuild_cache.dir
