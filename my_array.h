@@ -1,3 +1,6 @@
+#ifndef MYARRAY_H
+#define MYARRAY_H
+
 #include <iostream>
 
 using namespace std;
@@ -69,3 +72,5 @@ private:
     int m_p = 0;
 
 };
+
+#endif //MYARRAY_H
