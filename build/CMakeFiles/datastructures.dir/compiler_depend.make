@@ -3,7 +3,9 @@
 
 CMakeFiles/datastructures.dir/main.cpp.o: /home/lifeifan/Documents/vscodeporject/DataStructures/main.cpp \
   /home/lifeifan/Documents/vscodeporject/DataStructures/my_array.h \
+  /home/lifeifan/Documents/vscodeporject/DataStructures/my_dclinkedlist.h \
   /home/lifeifan/Documents/vscodeporject/DataStructures/my_linkedlist.h \
+  /home/lifeifan/Documents/vscodeporject/DataStructures/my_stack.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
@@ -254,6 +256,14 @@ datastructures: /usr/lib/libc.so \
 
 /usr/include/c++/14.2.1/ext/alloc_traits.h:
 
+/usr/include/c++/14.2.1/streambuf:
+
+/usr/include/c++/14.2.1/debug/debug.h:
+
+/usr/include/pthread.h:
+
+/usr/include/c++/14.2.1/debug/assertions.h:
+
 /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/ctype_inline.h:
 
 /usr/include/c++/14.2.1/stdexcept:
@@ -277,8 +287,6 @@ datastructures: /usr/lib/libc.so \
 /usr/include/c++/14.2.1/initializer_list:
 
 /usr/include/bits/types/struct_FILE.h:
-
-/usr/include/c++/14.2.1/bits/stl_iterator.h:
 
 /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h:
 
@@ -306,10 +314,6 @@ datastructures: /usr/lib/libc.so \
 
 /usr/include/bits/types/FILE.h:
 
-/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h:
-
-/usr/include/bits/types.h:
-
 /usr/include/c++/14.2.1/new:
 
 /usr/include/bits/types/error_t.h:
@@ -323,10 +327,6 @@ datastructures: /usr/lib/libc.so \
 /usr/include/bits/thread-shared-types.h:
 
 /usr/include/c++/14.2.1/cwctype:
-
-/usr/include/features.h:
-
-/usr/include/bits/endianness.h:
 
 /usr/include/bits/long-double.h:
 
@@ -362,6 +362,12 @@ datastructures: /usr/lib/libc.so \
 
 /usr/include/c++/14.2.1/backward/binders.h:
 
+/home/lifeifan/Documents/vscodeporject/DataStructures/my_stack.h:
+
+/usr/include/bits/floatn-common.h:
+
+/usr/include/c++/14.2.1/clocale:
+
 /usr/include/bits/stdlib-float.h:
 
 /usr/include/bits/time64.h:
@@ -382,15 +388,29 @@ datastructures: /usr/lib/libc.so \
 
 /home/lifeifan/Documents/vscodeporject/DataStructures/my_linkedlist.h:
 
+/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h:
+
+/usr/include/bits/types.h:
+
+/home/lifeifan/Documents/vscodeporject/DataStructures/my_dclinkedlist.h:
+
+/usr/include/bits/struct_mutex.h:
+
+/usr/include/bits/cpu-set.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/c++/14.2.1/bits/functexcept.h:
+
+/usr/include/features.h:
+
+/usr/include/bits/endianness.h:
+
 /usr/include/bits/locale.h:
 
 /usr/include/c++/14.2.1/bits/version.h:
 
 /usr/include/bits/types/mbstate_t.h:
-
-/usr/include/bits/floatn-common.h:
-
-/usr/include/c++/14.2.1/clocale:
 
 /usr/include/bits/types/sigset_t.h:
 
@@ -428,13 +448,7 @@ datastructures: /usr/lib/libc.so \
 
 /usr/include/c++/14.2.1/bits/alloc_traits.h:
 
-/usr/include/bits/cpu-set.h:
-
-/usr/include/bits/typesizes.h:
-
-/usr/include/c++/14.2.1/bits/functexcept.h:
-
-/usr/include/bits/struct_mutex.h:
+/usr/include/c++/14.2.1/bits/stl_iterator.h:
 
 /usr/include/bits/timesize.h:
 
@@ -526,10 +540,6 @@ datastructures: /usr/lib/libc.so \
 
 /usr/include/c++/14.2.1/bits/requires_hosted.h:
 
-/usr/include/c++/14.2.1/streambuf:
-
-/usr/include/c++/14.2.1/debug/debug.h:
-
 /usr/include/c++/14.2.1/bits/std_abs.h:
 
 /usr/include/c++/14.2.1/bits/stl_algobase.h:
@@ -551,7 +561,3 @@ datastructures: /usr/lib/libc.so \
 /usr/include/c++/14.2.1/cstdlib:
 
 /usr/include/c++/14.2.1/cwchar:
-
-/usr/include/pthread.h:
-
-/usr/include/c++/14.2.1/debug/assertions.h:
