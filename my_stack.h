@@ -16,7 +16,7 @@ public:
     MyStack(){}
 
 public:
-    void enqueue(int val){
+    void push(int val){
         if(m_stack.p == MAXSIZE){
             cout << "栈空间已满！" << endl;
             return;
@@ -25,7 +25,7 @@ public:
         m_stack.p++;
     }
 
-    void dequeue(){
+    void pop(){
         if(m_stack.p = 0){
             cout << "当前栈为空！" << endl;
             return;
