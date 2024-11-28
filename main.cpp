@@ -4,6 +4,7 @@
 #include <my_dclinkedlist.h>
 #include <my_stack.h>
 #include <my_queue.h>
+#include <my_avltree.h>
 using namespace std;
 
 int main(){
@@ -13,5 +14,6 @@ int main(){
     MyDCLinkedList dclist;
     MyStack stack;
     MyQueue queue;
+    MyAVLTree avltree;
     return 0;
 }

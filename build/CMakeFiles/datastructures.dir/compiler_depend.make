@@ -3,6 +3,7 @@
 
 CMakeFiles/datastructures.dir/main.cpp.o: /home/lifeifan/Documents/vscodeporject/DataStructures/main.cpp \
   /home/lifeifan/Documents/vscodeporject/DataStructures/my_array.h \
+  /home/lifeifan/Documents/vscodeporject/DataStructures/my_avltree.h \
   /home/lifeifan/Documents/vscodeporject/DataStructures/my_dclinkedlist.h \
   /home/lifeifan/Documents/vscodeporject/DataStructures/my_linkedlist.h \
   /home/lifeifan/Documents/vscodeporject/DataStructures/my_queue.h \
@@ -267,7 +268,7 @@ datastructures: /usr/lib/libc.so \
 
 /usr/include/c++/14.2.1/cwctype:
 
-/usr/include/bits/types/struct_tm.h:
+/usr/include/c++/14.2.1/cwchar:
 
 /usr/include/bits/types/struct_timeval.h:
 
@@ -282,10 +283,6 @@ datastructures: /usr/lib/libc.so \
 /usr/include/ctype.h:
 
 /usr/include/bits/waitflags.h:
-
-/usr/include/c++/14.2.1/initializer_list:
-
-/usr/include/bits/types/struct_FILE.h:
 
 /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h:
 
@@ -339,10 +336,6 @@ datastructures: /usr/lib/libc.so \
 
 /usr/include/bits/setjmp.h:
 
-/usr/include/bits/wchar.h:
-
-/usr/include/c++/14.2.1/bits/locale_facets.h:
-
 /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/error_constants.h:
 
 /usr/include/bits/types/clock_t.h:
@@ -354,12 +347,6 @@ datastructures: /usr/lib/libc.so \
 /usr/include/asm-generic/errno-base.h:
 
 /usr/include/c++/14.2.1/backward/binders.h:
-
-/home/lifeifan/Documents/vscodeporject/DataStructures/my_stack.h:
-
-/usr/include/bits/floatn-common.h:
-
-/usr/include/c++/14.2.1/clocale:
 
 /usr/include/bits/stdlib-float.h:
 
@@ -381,11 +368,15 @@ datastructures: /usr/lib/libc.so \
 
 /home/lifeifan/Documents/vscodeporject/DataStructures/my_linkedlist.h:
 
-/usr/include/bits/long-double.h:
-
 /usr/include/c++/14.2.1/bits/version.h:
 
 /usr/include/bits/types/mbstate_t.h:
+
+/usr/include/bits/floatn-common.h:
+
+/home/lifeifan/Documents/vscodeporject/DataStructures/my_stack.h:
+
+/usr/include/c++/14.2.1/clocale:
 
 /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h:
 
@@ -412,6 +403,8 @@ datastructures: /usr/lib/libc.so \
 /usr/include/bits/typesizes.h:
 
 /usr/include/c++/14.2.1/bits/functexcept.h:
+
+/usr/include/bits/long-double.h:
 
 /usr/include/features.h:
 
@@ -445,17 +438,29 @@ datastructures: /usr/lib/libc.so \
 
 /usr/include/bits/types/__fpos64_t.h:
 
+/usr/include/c++/14.2.1/initializer_list:
+
+/usr/include/bits/types/struct_FILE.h:
+
+/home/lifeifan/Documents/vscodeporject/DataStructures/my_avltree.h:
+
+/usr/include/bits/timesize.h:
+
+/usr/include/bits/waitstatus.h:
+
 /usr/include/bits/select.h:
 
 /usr/lib/libgcc_s.so:
 
 /usr/include/c++/14.2.1/bits/alloc_traits.h:
 
+/usr/include/bits/types/struct_tm.h:
+
+/usr/include/c++/14.2.1/bits/locale_facets.h:
+
+/usr/include/bits/wchar.h:
+
 /usr/include/c++/14.2.1/bits/stl_iterator.h:
-
-/usr/include/bits/timesize.h:
-
-/usr/include/bits/waitstatus.h:
 
 /usr/include/sys/types.h:
 
@@ -562,5 +567,3 @@ datastructures: /usr/lib/libc.so \
 /usr/include/c++/14.2.1/cerrno:
 
 /usr/include/c++/14.2.1/cstdlib:
-
-/usr/include/c++/14.2.1/cwchar:
