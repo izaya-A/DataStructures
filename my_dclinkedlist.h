@@ -69,7 +69,7 @@ public:
         delete temp->next;
     }
 
-    void select(){
+    void print(){
         dcListNode* temp = head;
         while(temp->next != head){
             cout << temp->data << ", ";

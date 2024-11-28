@@ -52,7 +52,7 @@ public:
         temp->next = nn;
     }
 
-    void select(){
+    void print(){
         listNode* temp = head;
         while(temp != nullptr){
             cout << temp->data << ", ";

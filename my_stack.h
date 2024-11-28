@@ -33,7 +33,7 @@ public:
         m_stack.p--;
     }
 
-    void select(){
+    void print(){
         for(int i = 0; i < m_stack.p; ++i){
             cout << m_stack.stack[i] << ", ";
         }

@@ -132,4 +132,5 @@ CMakeFiles/datastructures.dir/main.cpp.o: \
  /home/lifeifan/Documents/vscodeporject/DataStructures/./my_array.h \
  /home/lifeifan/Documents/vscodeporject/DataStructures/./my_linkedlist.h \
  /home/lifeifan/Documents/vscodeporject/DataStructures/./my_dclinkedlist.h \
- /home/lifeifan/Documents/vscodeporject/DataStructures/./my_stack.h
+ /home/lifeifan/Documents/vscodeporject/DataStructures/./my_stack.h \
+ /home/lifeifan/Documents/vscodeporject/DataStructures/./my_queue.h

@@ -60,10 +60,11 @@ public:
         m_array[key] = val;
     }
 
-    void select(){
+    void print(){
         for(int i = 0; i < m_p; ++i){
-            cout << m_array[i] << ", " << endl;
+            cout << m_array[i] << ", ";
         }
+        cout << endl;
     }
 
 private:

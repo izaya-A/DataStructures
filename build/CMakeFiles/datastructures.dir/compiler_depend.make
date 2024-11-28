@@ -5,6 +5,7 @@ CMakeFiles/datastructures.dir/main.cpp.o: /home/lifeifan/Documents/vscodeporject
   /home/lifeifan/Documents/vscodeporject/DataStructures/my_array.h \
   /home/lifeifan/Documents/vscodeporject/DataStructures/my_dclinkedlist.h \
   /home/lifeifan/Documents/vscodeporject/DataStructures/my_linkedlist.h \
+  /home/lifeifan/Documents/vscodeporject/DataStructures/my_queue.h \
   /home/lifeifan/Documents/vscodeporject/DataStructures/my_stack.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
@@ -264,17 +265,15 @@ datastructures: /usr/lib/libc.so \
 
 /usr/include/c++/14.2.1/debug/assertions.h:
 
-/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/ctype_inline.h:
-
-/usr/include/c++/14.2.1/stdexcept:
-
-/usr/include/bits/types/time_t.h:
+/usr/include/c++/14.2.1/cwctype:
 
 /usr/include/bits/types/struct_tm.h:
 
 /usr/include/bits/types/struct_timeval.h:
 
 /usr/include/bits/types/struct_timespec.h:
+
+/home/lifeifan/Documents/vscodeporject/DataStructures/my_queue.h:
 
 /usr/include/c++/14.2.1/bits/refwrap.h:
 
@@ -326,21 +325,15 @@ datastructures: /usr/lib/libc.so \
 
 /usr/include/bits/thread-shared-types.h:
 
-/usr/include/c++/14.2.1/cwctype:
+/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/ctype_inline.h:
 
-/usr/include/bits/long-double.h:
+/usr/include/c++/14.2.1/stdexcept:
 
-/usr/include/bits/struct_rwlock.h:
+/usr/include/bits/types/time_t.h:
 
-/usr/include/bits/types/struct_itimerspec.h:
+/usr/include/bits/types/sigset_t.h:
 
-/usr/include/bits/types/__sigset_t.h:
-
-/usr/include/c++/14.2.1/bits/allocator.h:
-
-/usr/include/alloca.h:
-
-/usr/include/c++/14.2.1/bits/streambuf_iterator.h:
+/usr/include/c++/14.2.1/bits/ostream.tcc:
 
 /usr/include/bits/types/struct___jmp_buf_tag.h:
 
@@ -388,11 +381,29 @@ datastructures: /usr/lib/libc.so \
 
 /home/lifeifan/Documents/vscodeporject/DataStructures/my_linkedlist.h:
 
+/usr/include/bits/long-double.h:
+
+/usr/include/c++/14.2.1/bits/version.h:
+
+/usr/include/bits/types/mbstate_t.h:
+
 /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h:
 
 /usr/include/bits/types.h:
 
 /home/lifeifan/Documents/vscodeporject/DataStructures/my_dclinkedlist.h:
+
+/usr/include/alloca.h:
+
+/usr/include/c++/14.2.1/bits/streambuf_iterator.h:
+
+/usr/include/bits/struct_rwlock.h:
+
+/usr/include/bits/types/struct_itimerspec.h:
+
+/usr/include/bits/types/__sigset_t.h:
+
+/usr/include/c++/14.2.1/bits/allocator.h:
 
 /usr/include/bits/struct_mutex.h:
 
@@ -407,14 +418,6 @@ datastructures: /usr/lib/libc.so \
 /usr/include/bits/endianness.h:
 
 /usr/include/bits/locale.h:
-
-/usr/include/c++/14.2.1/bits/version.h:
-
-/usr/include/bits/types/mbstate_t.h:
-
-/usr/include/bits/types/sigset_t.h:
-
-/usr/include/c++/14.2.1/bits/ostream.tcc:
 
 /home/lifeifan/Documents/vscodeporject/DataStructures/main.cpp:
 
