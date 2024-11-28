@@ -6,5 +6,5 @@ CXX_DEFINES =
 
 CXX_INCLUDES = -I/home/lifeifan/Documents/vscodeporject/DataStructures/.
 
-CXX_FLAGS =  -std=c++0x
+CXX_FLAGS =  -std=c++0x -g
 

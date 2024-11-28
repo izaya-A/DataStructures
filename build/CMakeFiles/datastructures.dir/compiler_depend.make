@@ -3,6 +3,7 @@
 
 CMakeFiles/datastructures.dir/main.cpp.o: /home/lifeifan/Documents/vscodeporject/DataStructures/main.cpp \
   /home/lifeifan/Documents/vscodeporject/DataStructures/my_array.h \
+  /home/lifeifan/Documents/vscodeporject/DataStructures/my_linkedlist.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
@@ -287,18 +288,6 @@ datastructures: /usr/lib/libc.so \
 
 /usr/include/c++/14.2.1/cstdio:
 
-/usr/include/bits/typesizes.h:
-
-/usr/include/bits/cpu-set.h:
-
-/usr/include/c++/14.2.1/bits/functexcept.h:
-
-/usr/include/bits/types/cookie_io_functions_t.h:
-
-/usr/include/bits/sched.h:
-
-/usr/include/c++/14.2.1/bits/ios_base.h:
-
 /usr/include/bits/types/clockid_t.h:
 
 /usr/include/bits/atomic_wide_counter.h:
@@ -325,37 +314,21 @@ datastructures: /usr/lib/libc.so \
 
 /usr/include/bits/types/error_t.h:
 
+/usr/include/c++/14.2.1/exception:
+
+/usr/include/bits/stdint-intn.h:
+
 /usr/include/bits/endian.h:
 
-/usr/include/c++/14.2.1/bits/version.h:
+/usr/include/bits/thread-shared-types.h:
 
-/usr/include/bits/types/mbstate_t.h:
-
-/usr/include/bits/floatn-common.h:
-
-/usr/include/c++/14.2.1/clocale:
-
-/usr/include/bits/types/sigset_t.h:
-
-/usr/include/c++/14.2.1/bits/ostream.tcc:
+/usr/include/c++/14.2.1/cwctype:
 
 /usr/include/features.h:
 
 /usr/include/bits/endianness.h:
 
 /usr/include/bits/long-double.h:
-
-/usr/include/bits/stdlib-float.h:
-
-/usr/include/bits/time64.h:
-
-/usr/include/c++/14.2.1/bits/basic_ios.tcc:
-
-/usr/include/c++/14.2.1/bits/postypes.h:
-
-/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h:
-
-/usr/include/bits/byteswap.h:
 
 /usr/include/bits/struct_rwlock.h:
 
@@ -389,7 +362,39 @@ datastructures: /usr/lib/libc.so \
 
 /usr/include/c++/14.2.1/backward/binders.h:
 
+/usr/include/bits/stdlib-float.h:
+
+/usr/include/bits/time64.h:
+
+/usr/include/c++/14.2.1/bits/basic_ios.tcc:
+
+/usr/include/c++/14.2.1/bits/postypes.h:
+
+/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/bits/types/cookie_io_functions_t.h:
+
+/usr/include/bits/sched.h:
+
+/usr/include/c++/14.2.1/bits/ios_base.h:
+
+/home/lifeifan/Documents/vscodeporject/DataStructures/my_linkedlist.h:
+
 /usr/include/bits/locale.h:
+
+/usr/include/c++/14.2.1/bits/version.h:
+
+/usr/include/bits/types/mbstate_t.h:
+
+/usr/include/bits/floatn-common.h:
+
+/usr/include/c++/14.2.1/clocale:
+
+/usr/include/bits/types/sigset_t.h:
+
+/usr/include/c++/14.2.1/bits/ostream.tcc:
 
 /home/lifeifan/Documents/vscodeporject/DataStructures/main.cpp:
 
@@ -423,11 +428,13 @@ datastructures: /usr/lib/libc.so \
 
 /usr/include/c++/14.2.1/bits/alloc_traits.h:
 
+/usr/include/bits/cpu-set.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/c++/14.2.1/bits/functexcept.h:
+
 /usr/include/bits/struct_mutex.h:
-
-/usr/include/bits/thread-shared-types.h:
-
-/usr/include/c++/14.2.1/cwctype:
 
 /usr/include/bits/timesize.h:
 
@@ -548,7 +555,3 @@ datastructures: /usr/lib/libc.so \
 /usr/include/pthread.h:
 
 /usr/include/c++/14.2.1/debug/assertions.h:
-
-/usr/include/bits/stdint-intn.h:
-
-/usr/include/c++/14.2.1/exception:

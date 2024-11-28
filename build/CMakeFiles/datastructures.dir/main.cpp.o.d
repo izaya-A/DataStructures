@@ -129,4 +129,5 @@ CMakeFiles/datastructures.dir/main.cpp.o: \
  /usr/include/c++/14.2.1/bits/basic_ios.tcc \
  /usr/include/c++/14.2.1/bits/ostream.tcc /usr/include/c++/14.2.1/istream \
  /usr/include/c++/14.2.1/bits/istream.tcc \
- /home/lifeifan/Documents/vscodeporject/DataStructures/./my_array.h
+ /home/lifeifan/Documents/vscodeporject/DataStructures/./my_array.h \
+ /home/lifeifan/Documents/vscodeporject/DataStructures/./my_linkedlist.h

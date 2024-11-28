@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/lifeifan/Documents/vscodeporject/DataStructures/build",
+  "command": "/usr/bin/c++  -I/home/lifeifan/Documents/vscodeporject/DataStructures/.  -std=c++0x -g -o CMakeFiles/datastructures.dir/main.cpp.o -c /home/lifeifan/Documents/vscodeporject/DataStructures/main.cpp",
+  "file": "/home/lifeifan/Documents/vscodeporject/DataStructures/main.cpp",
+  "output": "CMakeFiles/datastructures.dir/main.cpp.o"
+}
+]
