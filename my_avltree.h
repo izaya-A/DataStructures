@@ -110,7 +110,24 @@ public:
         return node;
     }
 
+    void del(int val, avlTreeNode* node){
+        if(!node){
+            cout << "节点不存在！" << endl;
+            return;
+        }
+        if(val < node->data){
+            del(val, node->left);
+            updateDeepin(node);
+            int balance = getNodeBalanceFactor(node);
+            if(balance > 1){
+                if(val < node->left->data){}
+            }
+        }else if(val > node->data){
+            del(val, node->right);
+        }else{
 
+        }
+    }
 
 private:
     avlTreeNode* m_head;
